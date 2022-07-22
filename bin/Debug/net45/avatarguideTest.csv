@@ -1,0 +1,4 @@
+"Int,Id","String,gender","Float,age","Bool,bValue","Vector,vector","list,Grid"
+序号,gender,age,bValue,模型相对中心偏差值,格子
+1,gender1,,TRUE,"[0,0,1]",
+2,,23.8,,,"[[0,0,0],[0,1,0],[1,0,0],[1,1,0]]"
